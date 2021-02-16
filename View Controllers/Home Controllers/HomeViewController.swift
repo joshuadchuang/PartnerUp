@@ -11,7 +11,9 @@ import FirebaseAuth
 class HomeViewController: UIViewController, UISearchBarDelegate, UISearchResultsUpdating {
     
     // MARK: Outlet variables
+    
     @IBOutlet weak var shapeTableView: UITableView!
+    
     
     // MARK: Other Variables
     
