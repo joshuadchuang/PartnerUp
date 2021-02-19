@@ -11,6 +11,7 @@ This app allows students to connect themselves with people based on their locati
 ----------------------------------------------------------------------------------
 
 APP INSTRUCTIONS:
+
 Sign up and choose a profile picture. You will be identified by your email and first + last name.
 
 Unless you decide to log out, you will automatically be logged in every time to provide a better user experience.
